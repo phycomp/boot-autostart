@@ -1,0 +1,12 @@
+# 編輯器 / OS 暫存檔
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 本機 secret 檔（若未來加入；此 repo 目前無 secret）
+.env
+*.pem
+*.key
